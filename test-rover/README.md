@@ -27,9 +27,8 @@ The folder are structured in the following way:
 
 -  Model: show the object of interaction, with the properties that they have and the action that can be done to interact with them.
 
--  Controller: the reader take care of communicate with the model handling the input
+-  Reader: the reader take care of communicate with the model handling the input
 
--  View: in this case is considered the terminal that control the action of the user
 
 #### REQUIREMENTS
 
